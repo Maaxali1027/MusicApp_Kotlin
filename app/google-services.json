@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "468284532304",
+    "project_id": "symphony-app-745c7",
+    "storage_bucket": "symphony-app-745c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468284532304:android:258ded0c5582d33453d355",
+        "android_client_info": {
+          "package_name": "com.example.symphonyapp",
+          "package_name": "com.madproject.musicstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJvZZ6y0X43NxUFTf2K32Vn8wExdaOPVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468284532304:android:dec4c66fa817a84253d355",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.musicstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJvZZ6y0X43NxUFTf2K32Vn8wExdaOPVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
